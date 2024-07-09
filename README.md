@@ -5,4 +5,4 @@ All executables are linux and mac compatible.
 
 
 This repository is personal intellectual property.
-I am not responsible for misuse of this property that goes against ASU Academic Integrity Standards. 
+I am not responsible for misuse of this property against University Academic Integrity codes.
